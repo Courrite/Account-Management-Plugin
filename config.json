@@ -1,0 +1,14 @@
+{
+    "Database": {
+        "ConnectionString": "",
+        "DatabaseName": "",
+        "AccountCollection": "",
+        "RankCollection": "",
+        "SuspensionCollection": "",
+        "WarningCollection": "",
+        "ModLogCollection": "",
+        "MuteCollection": ""
+    },
+    "ReportsChannelWebhook": "",
+    "PriorityReportsChannelWebhook": ""
+}
