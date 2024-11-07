@@ -47,7 +47,7 @@ namespace AccountManagementPlugin
     {
         public override string Name => "AccountManagement";
         public override string Author => "Courrite";
-        public override Version Version => new Version(1, 0, 0, 0);
+        public override Version Version => new Version(1, 0, 0, 1);
         public override string Description => "Manage user accounts with MongoDB.";
 
         private readonly UserService _userService;
